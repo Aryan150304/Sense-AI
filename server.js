@@ -21,7 +21,7 @@ const MODEL_NAME = "gemini-pro";
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 // app.use(express.static)
-const API_KEY = 'AIzaSyCNDmkpECQr4AgyGwHinpzqFoFOeyknNSU';
+const API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXX';
 function encodeHTML(str) {
     return str.replace(/[\u00A0-\u9999<>\&]/gim, function(i) {
         return '&#' + i.charCodeAt(0) + ';';
