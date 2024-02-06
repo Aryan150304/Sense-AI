@@ -1,12 +1,21 @@
-sense Ai is a voice controlled website that equips blind people with Tech.
+Sense AI
 
-#tech stacks used
-Frontend - HTML,CSS,JS,Bootstrap-5
+Description: Developed a voice-navigated website aimed at assisting virtually blind individuals in navigating the digital world seamlessly. Leveraged Google Gen AI to integrate a chatbot capable of understanding voice commands and providing real-time feedback solely through speech output.
 
-ServerSide - Nodejs, Expressjs
+Key Contributions:
 
-Libraries - Axios, CORS, nlp.js, natural.js, google generative ai
+Conceptualized and designed the user interface to ensure accessibility and ease of use for visually impaired users.
+Implemented voice recognition technology to interpret user commands, facilitating hands-free navigation.
+Integrated Google Gen AI chatbot to process voice commands and deliver instant responses in speech format, eliminating the need for visual interaction.
+Technologies Used:
 
-Models used - gemini pro, embedding 001
+Google Gen AI gemini pro and embedding 001
+Web development technologies -
+Frontend - HTML, CSS, Javascript, Bootstrap 
+Server Side - Node js, Express js
+Template Engine - EJS
 
-Template engine - EJS
+
+Future Enhancements:
+Continuously exploring advancements in AI and voice recognition technology to further enhance the capabilities of Sense AI.
+Integrating additional features such as personalized recommendations and voice-controlled navigation for a more seamless user experience.
